@@ -1,2 +1,2 @@
 # nvidia-smi-python
-Pytorch code to get GPU stats
+Python code to get GPU stats
