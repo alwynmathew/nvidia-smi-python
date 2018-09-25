@@ -1,7 +1,7 @@
 #
 # Author : Alwyn Mathew
 #
-# Purpose : GPU status of hardware lab workstation
+# Purpose : GPU status
 #
 
 from collections import OrderedDict
